@@ -7,7 +7,7 @@
  <g class="layer">
   <title>Layer 1</title>
   <polyline fill="none" id="svg_17" opacity="0.5" points="9.03616 5.97235 8.86219 6.96549 8.69062 7.86132 8.61571 8.6791 8.46874 9.5976" stroke-linecap="round"/>
-  <text fill="#ffd4aa" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_18" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="15.16" xml:space="preserve" y="24.55">6</text>
+  <text fill="#ffd4aa" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_18" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="15.16" xml:space="preserve" y="24.55">6</text>
   <text fill="#ffd4aa" font-family="Sans-serif" font-size="11" font-weight="normal" id="svg_19" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(0.774676 0 0 0.766501 3.36502 -0.988836)" x="29.66" xml:space="preserve" y="13.51">lane</text>
   <g clip-path="url(#clip-LargeRoad8lanes)" id="svg_2">
    <path d="m118.1,185.68l-6.59,-8.59s-4.62,2.21 -4.37,2.65s8.13,10.08 8.13,10.08l2.83,-4.14z" data-name="Path 2053" fill="#706428" id="svg_3" transform="rotate(-7 -1073.9 609.179)"/>
@@ -41,6 +41,6 @@
    <path d="m15824.08,3487.87l30.2,24.65l1.23,-0.69l-30.56,-24.4l-0.87,0.44z" data-name="Path 2289" fill="rgba(212,212,212,0.61)" id="svg_36" transform="translate(-15802.6 -3473.08)"/>
    <path d="m15822.15,3489.65l30.2,24.66l1.23,-0.7l-30.55,-24.4l-0.88,0.44z" data-name="Path 2300" fill="rgba(212,212,212,0.61)" id="svg_37" transform="translate(-15796.3 -3477.42)"/>
   </g>
-  <text fill="#007fff" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_35" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="15.42" xml:space="preserve" y="100.33">3U</text>
+  <text fill="#aaffff" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_35" stroke-width="0" text-anchor="middle" transform="matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="15.42" xml:space="preserve" y="100.33">3U</text>
  </g>
 </svg>

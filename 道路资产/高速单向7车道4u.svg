@@ -27,8 +27,8 @@
    <path d="m32.68,8.02l30.2,24.65l1.23,-0.69l-30.55,-24.4l-0.88,0.44z" fill="#d4d4d4" id="svg_22"/>
    <path d="m47.07,13.33l0.76,4.97l1.53,-0.8l5.36,4.62l2.45,-1.34l-5.26,-4.47l1.75,-0.95l-6.59,-2.03z" fill="#fff" id="svg_23"/>
   </g>
-  <text fill="#ffd4aa" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_18" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="15.29" xml:space="preserve" y="24.55">7</text>
+  <text fill="#ffd4aa" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_18" stroke-width="0" text-anchor="middle" transform="matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="15.29" xml:space="preserve" y="24.55">7</text>
   <text fill="#ffd4aa" font-family="Sans-serif" font-size="11" font-weight="normal" id="svg_19" stroke-width="0" text-anchor="middle" transform="matrix(0.774676 0 0 0.766501 3.36502 -0.988836)" x="28.24" xml:space="preserve" y="13.51">lane</text>
-  <text fill="#007fff" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_35" stroke-width="0" text-anchor="middle" transform="matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="15.67" xml:space="preserve" y="99.89">4U</text>
+  <text fill="#aaffff" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_35" stroke-width="0" text-anchor="middle" transform="matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="15.67" xml:space="preserve" y="99.89">4U</text>
  </g>
 </svg>
